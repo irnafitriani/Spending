@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8af9dae8-c72c-054d-927d-2fcf4f1c3c81++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8af9dae8-c72c-054d-927d-2fcf4f1c3c81++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8af9dae8-c72c-054d-927d-2fcf4f1c3c81++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1899E369-4C1A-455F-9695-298DCC7481D7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8af9dae8-c72c-054d-927d-2fcf4f1c3c81++505" : "Projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Spending",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mitrais-cdc-mobile\/cdc\/Spending\/Spending.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/cvs.mitrais.com:1197\/svn\/igotugot\/igotugot-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8af9dae8-c72c-054d-927d-2fcf4f1c3c81++505"
+    }
+  ]
+}
